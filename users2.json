@@ -1,0 +1,51 @@
+[
+  {
+    "id": "u1",
+    "username": "admin",
+    "password": "admin@EDR2024",
+    "name": "EDR Administrator",
+    "role": "admin"
+  },
+  {
+    "id": "u1778668606171",
+    "username": "Alemayehu Fite",
+    "password": "alex@EDR",
+    "name": "Alemayheu Fite",
+    "role": "rm"
+  },
+  {
+    "id": "u1778668627336",
+    "username": "Daniel Wordofa",
+    "password": "dan@EDR",
+    "name": "Daniel Wordofa",
+    "role": "ce"
+  },
+  {
+    "id": "u1778668647102",
+    "username": "Tesfaye Buta",
+    "password": "tes@EDR",
+    "name": "Tesfaye Buta",
+    "role": "pm"
+  },
+  {
+    "id": "u1778668665917",
+    "username": "Abiy Girma",
+    "password": "abiy@EDR",
+    "name": "Abiy Girma",
+    "role": "dpm"
+  },
+  {
+    "id": "u1778668702721",
+    "username": "Kalkidan Teshome",
+    "password": "kal@EDR",
+    "name": "Kalkidan Teshome",
+    "role": "ppc"
+  },
+  {
+    "id": "u1778668720023",
+    "username": "Ashustore",
+    "password": "ash@EDR",
+    "name": "Ashu",
+    "role": "sm"
+  }
+]

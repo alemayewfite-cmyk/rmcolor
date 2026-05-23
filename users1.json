@@ -1,0 +1,72 @@
+[
+  {
+    "id": "u1",
+    "username": "admin",
+    "password": "admin@EDR2024",
+    "name": "EDR Administrator",
+    "role": "admin"
+  },
+  {
+    "id": "u1778668403268",
+    "username": "Alemayehu Fite",
+    "password": "alex@EDR",
+    "name": "Alemayehu Fite",
+    "role": "rm"
+  },
+  {
+    "id": "u1778668423060",
+    "username": "Daniel Wordofa",
+    "password": "dan@EDR",
+    "name": "Daniel Wordofa",
+    "role": "ce"
+  },
+  {
+    "id": "u1778668442383",
+    "username": "Kalkidan Teshoma",
+    "password": "kal@EDR",
+    "name": "Kalkidan Teshome",
+    "role": "cppm"
+  },
+  {
+    "id": "u1778668463536",
+    "username": "Tesfaye Buta",
+    "password": "tes@EDR",
+    "name": "Tesfaye Buta",
+    "role": "pm"
+  },
+  {
+    "id": "u1778668492880",
+    "username": "Bikila Worku",
+    "password": "bik@EDR",
+    "name": "Bikila worku",
+    "role": "dep"
+  },
+  {
+    "id": "u1778668507607",
+    "username": "Kidist",
+    "password": "kid@EDR",
+    "name": "Kidist",
+    "role": "epo"
+  },
+  {
+    "id": "u1778668524407",
+    "username": "Ashustore",
+    "password": "ash@EDR",
+    "name": "Ashu",
+    "role": "store"
+  },
+  {
+    "id": "u1779268630866",
+    "username": "Genet Finance",
+    "password": "gen@EDR",
+    "name": "Genet",
+    "role": "fin"
+  },
+  {
+    "id": "u1779268656551",
+    "username": "Eleni Birhanu",
+    "password": "ele@EDR",
+    "name": "Eleni Birhanu",
+    "role": "cos"
+  }
+]
